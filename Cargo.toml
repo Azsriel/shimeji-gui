@@ -1,0 +1,10 @@
+[package]
+name = "shimeji-gui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk4 = { version = "0.9", features = ["v4_10"] }
+glib = "0.20"
+tokio = { version = "1", features = ["full"] }
+anyhow = "1"
