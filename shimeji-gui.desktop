@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Shimeji Manager
+Comment=GUI frontend for wl_shimeji
+Exec=/usr/local/bin/shimeji-gui
+Icon=shimeji-gui
+Categories=Utility;
+Keywords=shimeji;mascot;desktop pet;wl_shimeji;
+StartupNotify=true
+Terminal=false
